@@ -1,0 +1,21 @@
+
+{
+  "appName": "Rick and Morty App",
+  "homeTab": "Home",
+  "favoritesTab": "Favorites",
+  "status": "Status",
+  "species": "Species",
+  "gender": "Gender",
+  "location": "Location",
+  "origin": "Origin",
+  "sortBy": "Sort By",
+  "sortByName": "Name (A-Z)",
+  "sortByStatus": "Status",
+  "sortBySpecies": "Species",
+  "errorLoadingCharacters": "Error loading characters.",
+  "noInternet": "No internet connection. Showing cached data.",
+  "ok": "OK",
+  "retry": "Retry",
+  "failedToInitializeApp": "Failed to initialize app",
+  "failedToLoadLocalCharacters": "Error loading local data."
+}

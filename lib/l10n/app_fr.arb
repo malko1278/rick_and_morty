@@ -1,0 +1,21 @@
+
+{
+  "appName": "Rick et Morty App",
+  "homeTab": "Accueil",
+  "favoritesTab": "Favoris",
+  "status": "Statut",
+  "species": "Espèce",
+  "gender": "Genre",
+  "location": "Lieu",
+  "origin": "Origine",
+  "sortBy": "Trier Par",
+  "sortByName": "Nom (A-Z)",
+  "sortByStatus": "Statut",
+  "sortBySpecies": "Espèce",
+  "errorLoadingCharacters": "Erreur de chargement des personnages.",
+  "noInternet": "Aucune connexion internet. Affichage des données mises en cache.",
+  "ok": "OK",
+  "retry": "Réessayer",
+  "failedToInitializeApp": "Échec de l'initialisation de l'application",
+  "failedToLoadLocalCharacters": "Erreur de chargement des données locales."
+}

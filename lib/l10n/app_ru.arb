@@ -1,0 +1,21 @@
+
+{
+  "appName": "Рик и Морти Апп",
+  "homeTab": "Главная",
+  "favoritesTab": "Избранное",
+  "status": "Статус",
+  "species": "Вид",
+  "gender": "Пол",
+  "location": "Местоположение",
+  "origin": "Происхождение",
+  "sortBy": "Сортировать по",
+  "sortByName": "Имя (А-Я)",
+  "sortByStatus": "Статус",
+  "sortBySpecies": "Вид",
+  "errorLoadingCharacters": "Ошибка загрузки персонажей.",
+  "noInternet": "Нет подключения к интернету. Отображаются кэшированные данные.",
+  "ok": "ОК",
+  "retry": "Повторить",
+  "failedToInitializeApp": "Не удалось инициализировать приложение",
+  "failedToLoadLocalCharacters": "Ошибка загрузки локальных данных."
+}
